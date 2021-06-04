@@ -1,0 +1,16 @@
+{
+  "name": "p7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab-08.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.15.1",
+    "node-fetch": "^2.6.1"
+  }
+}
